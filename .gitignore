@@ -1,0 +1,25 @@
+# Build outputs
+/build/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake-build-debug/
+cmake-build-release/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# Binaries
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
